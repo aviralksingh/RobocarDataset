@@ -1,1 +1,4 @@
 
+[submodule "sdk/robocar_dataset_sdk"]
+	path = sdk/robocar_dataset_sdk
+	url = https://github.com/ori-mrg/robotcar-dataset-sdk.git
